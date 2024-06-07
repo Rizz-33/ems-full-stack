@@ -11,8 +11,7 @@ This is a full-stack web application for managing employees, built using Spring 
 - [Backend Setup](#backend-setup)
 - [Frontend Setup](#frontend-setup)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [License](#license)
+- [Feedback and Support](#feedback-and-support)
 
 ## Features
 
